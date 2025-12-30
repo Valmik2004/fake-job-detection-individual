@@ -1,2 +1,2 @@
 # fake-job-detection-individual
-This is the repo for the individual Implementation.
+This is the Repo for the individual-Presentation.
